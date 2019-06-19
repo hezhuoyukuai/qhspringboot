@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    druid:
+      url: jdbc:mysql://localhost:3306/mypro
+      username: root
+      password: 123
+      driver-class-name: com.mysql.jdbc.Driver
