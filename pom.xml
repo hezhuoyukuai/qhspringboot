@@ -41,7 +41,7 @@
         <redis-version>2.1.4.RELEASE</redis-version>
         <spring-boot-cache>2.1.3.RELEASE</spring-boot-cache>
         <ehcache-version>3.7.1</ehcache-version>
-        <log4j-version>2.11.1</log4j-version>
+        <log4j-version>2.13.2</log4j-version>
     </properties>
 
     <dependencyManagement>
